@@ -29,6 +29,10 @@
 
 ---
 
+## Live Demo
+🔗 [Live Demo](https://ashutoshrai142.github.io/StudySync/)
+
+
 ## 📸 Preview
 
 <img width="1586" height="833" alt="Capture1" src="https://github.com/user-attachments/assets/4cea50f2-95b3-46c1-ac92-4a81c345a43c" />
