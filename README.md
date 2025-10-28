@@ -29,8 +29,10 @@
 
 ---
 
-## Live Demo
+## 🚀 Live Demo
 🔗 [Live Demo](https://ashutoshrai142.github.io/StudySync/)
+
+---
 
 
 ## 📸 Preview
